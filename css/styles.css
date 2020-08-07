@@ -1,0 +1,42 @@
+body {
+    font-style: 16px;
+    font-family: 'Mulish', sans-serif;
+}
+/** HEADER **/
+#header-nav {
+    background-color: #999999;
+    border-radius: 0;
+    border: 0;
+}
+.navbar-collapse {
+    background-color: whitesmoke;
+}
+.sect {
+    background-color: #999999;
+    margin-bottom: 30px;
+}
+.category h3 {
+text-align: center;
+}
+.navbar-header {
+    width: 100%;
+}
+.navbar-toggler {
+    float: right;
+    margin-top: 12px;
+}
+/*Body*/
+#menu-title {
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+#nav-list a {
+    color: black;
+    text-align: center;
+}
+.nav-pills .nav-link:hover {
+    background-color: gray;
+}
